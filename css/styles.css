@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.hero {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+footer {
+  margin-top: 40px;
+}
